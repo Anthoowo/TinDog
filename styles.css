@@ -145,7 +145,7 @@ line-height: 1.5;
 
 /* mobile and pc responsiveness */
 @media screen and (max-width: 990px)  {
-  .tiitle-image{
+  .title-image{
     position: static;
     padding-top: 10px;
     transform: rotate(0);
